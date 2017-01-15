@@ -9,5 +9,6 @@
     <string name="title_activity_multiple_fragment">MultipleFragmentActivity</string>
     <string name="koala">koala</string>
     <string name="penguin">penguin</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
 
 </resources>

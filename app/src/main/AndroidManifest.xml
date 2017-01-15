@@ -20,10 +20,13 @@
             android:name=".simplefrag.SimpleFragmentActivity"
             android:label="@string/title_activity_simple_fragment" >
         </activity>
-
         <activity
             android:name=".multiplefrag.MultipleFragmentActivity"
             android:label="@string/title_activity_multiple_fragment" >
+        </activity>
+        <activity
+            android:name=".fragmentviewpager.ViewPagerActivity"
+            android:label="@string/title_activity_view_pager" >
         </activity>
     </application>
 
